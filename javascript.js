@@ -46,5 +46,7 @@ function getWeather() {
           }
      }
      updateMeteo(position);
+
+     
 }
 
